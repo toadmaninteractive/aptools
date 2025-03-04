@@ -1,0 +1,7 @@
+{application, aptools, [
+    {description, "Artplant Tools Library"},
+    {vsn, "0.1"},
+    {modules, []},
+    {registered, []},
+    {applications, [kernel, stdlib]}
+]}.
